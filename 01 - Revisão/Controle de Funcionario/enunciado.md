@@ -15,6 +15,15 @@ Os funcionários devem ser armazenados em um `HashMap<Integer, Funcionario>`, on
 
 ---
 
+📂 Arquivos esperados:
+- `Funcionario.java` (classe representando um funcionário)
+- `GerenciadorFuncionarios.java` (classe contendo as funcionalidades)
+
+---
+📌 **Dicas**:
+- Utilize `Scanner` para entrada de dados.
+- Teste seu código criando uma interface simples no console.
+
 ## 📌 Exemplo de Uso (Java)
 ```java
 GerenciadorFuncionarios gerenciador = new GerenciadorFuncionarios();
