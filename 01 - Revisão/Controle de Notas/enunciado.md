@@ -7,10 +7,7 @@ Cada aluno deve ter:
 - **Nome** (`String`)
 - **Notas** (`ArrayList<Double>`)
 
-Os alunos e suas respectivas notas devem ser armazenados em:
-```java
-HashMap<String, ArrayList<Double>>
-onde a chave é o nome do aluno, e o valor é uma lista com suas notas.
+Os alunos e suas respectivas notas devem ser armazenados em um HashMap<String, ArrayList<Double>> onde a chave é o nome do aluno, e o valor é uma lista com suas notas.
 
 ### 🎯 Funcionalidades do sistema:
 1. **Adicionar aunoe suas notas**
