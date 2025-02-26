@@ -11,8 +11,7 @@ Cada música deve ter os seguintes atributos:
 O sistema deve permitir que o usuário:
 1. **Adicione músicas** à playlist.
 2. **Remova músicas** pelo título.
-3. **Liste todas as músicas** na playlist.
-4. **Exiba a duração total** da playlist.
+3. **Liste todas as músicas e exiba a duração total** na playlist.
 
 📌 **Requisitos Técnicos**
 - Utilize um **`ArrayList<Musica>`** para armazenar as músicas.
