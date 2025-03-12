@@ -4,8 +4,10 @@
 - A atividade deve ser feita em trio.
 - Pontuação: **2 pts**.
 - Entrega: 📅 **16/03** até 🕔 **23:59**
-  - No Ulife, colocar o link do repositório.
-  - Obs: o repositório deve ser público ou se privado adicionar **rafapcmor**.
+  - No Ulife, colocar o link do repositório e o nome e ra dos alunos.
+  - Obs:
+    - o repositório deve ser público ou se privado adicionar **rafapcmor**,
+    - somente 1 aluno posta no Ulife. 
 
 ---
 
